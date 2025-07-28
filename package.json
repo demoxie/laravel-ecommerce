@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "alpinejs": "^2.8",
-        "axios": "^0.21",
+        "axios": "^0.30.0",
         "bootstrap": "^4.6",
         "cross-env": "^7.0",
         "dns-packet": "^5.2",
